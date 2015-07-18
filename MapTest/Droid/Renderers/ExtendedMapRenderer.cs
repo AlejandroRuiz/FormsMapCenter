@@ -5,6 +5,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Maps;
 using MapTest;
 using MapTest.Droid.Renderers;
+using MapTest.Controls;
 
 [assembly: ExportRenderer(typeof(ExtendedMap), typeof(ExtendedMapRenderer))]
 namespace MapTest.Droid.Renderers
@@ -47,7 +48,7 @@ namespace MapTest.Droid.Renderers
 
 			//BOTH RETURNS THE SAME RESULT
 			
-			return new Position (centerFromPoint.Latitude, centerFromPoint.Longitude);
+			return new Position (centerPosition.Latitude, centerPosition.Longitude);
 		}
 	}
 }

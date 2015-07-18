@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapTest.Droid", "Droid\MapT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapTest.UITests", "UITests\MapTest.UITests.csproj", "{6B548407-E8C3-4585-8941-37738E26F8B5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2014E24B-C19C-4763-AF30-29D304AB79AE}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -55,5 +60,7 @@ Global
 		{FB1BA407-F8D8-444F-AD22-76D6D8200550}.Release|iPhone.Build.0 = Release|iPhone
 		{FB1BA407-F8D8-444F-AD22-76D6D8200550}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{FB1BA407-F8D8-444F-AD22-76D6D8200550}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal

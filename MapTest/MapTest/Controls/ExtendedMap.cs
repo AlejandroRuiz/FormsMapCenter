@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms.Maps;
 
-namespace MapTest
+namespace MapTest.Controls
 {
 	public class ExtendedMap:Map
 	{

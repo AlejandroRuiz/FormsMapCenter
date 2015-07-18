@@ -5,6 +5,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Maps;
 using MapTest;
 using MapTest.iOS.Renderers;
+using MapTest.Controls;
 
 [assembly: ExportRenderer(typeof(ExtendedMap), typeof(ExtendedMapRenderer))]
 namespace MapTest.iOS.Renderers

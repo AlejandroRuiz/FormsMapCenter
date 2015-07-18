@@ -3,6 +3,13 @@ Renderers to get center position of a map.
 
 ### Usage
 
+Simple Usage:
+```cs
+var Map = new ExtendedMap();
+var CenterPos = Map.GetMapCenterLocation ();
+MainPage.DisplayAlert ("Map",$"Center Position\nLat:{CenterPos.Latitude}\nLgn:{CenterPos.Longitude}","Ok");
+```
+
 ExtendedMap Code:
 ```cs
 internal Func<Position> NativeGetMapCenterLocation{ get; set; }

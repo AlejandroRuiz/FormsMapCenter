@@ -78,3 +78,11 @@ internal Position GetMapCenterLocation()
 	return new Position (centerPosition.Latitude, centerPosition.Longitude);
 }
 ```
+
+iOS Screenshot
+
+![ScreenShot](http://1.bp.blogspot.com/-_-noJ3-HKn8/Vam_wdkYFpI/AAAAAAAAP_o/TM0IEaHwgpk/s1600/iOS%2BSimulator%2BScreen%2BShot%2BJul%2B17%252C%2B2015%252C%2B9.50.18%2BPM.png)
+
+Android Screenshot
+
+![ScreenShot](http://4.bp.blogspot.com/-LF0-cWoxCHI/Vam_wb-Q_9I/AAAAAAAAP_k/tCi3s5GNL0c/s1600/Screenshot_2015-07-17-21-50-20.png)

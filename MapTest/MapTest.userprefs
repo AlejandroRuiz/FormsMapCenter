@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Droid/MapTest.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.04d92edb0069fa6b" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../YouBetMeApp/Forms/iOS/AppDelegate.cs" line="95" offsetX="502" offsetY="1410" expression="MonoTouch.FacebookConnect.FBSettings" liveUpdate="False" />
+    <Watch file="../../YouBetMeApp/Forms/Youbetme/Pages/NewsFeedPage.cs" line="48" offsetX="452" offsetY="705" expression="e" liveUpdate="False" />
+    <Watch file="../../YouBetMeApp/Forms/iOS/UIComponents/ContentFeed/IosContentFeedListViewRenderer.cs" line="30" offsetX="452" offsetY="435" expression="Control" liveUpdate="False" />
+    <Watch file="../../YouBetMeApp/Forms/Youbetme/ViewModels/CreateBetViewModel.cs" line="384" offsetX="632" offsetY="5745" expression="this.OpponentTeam.Customers[0].Customer" liveUpdate="False" />
+    <Watch file="../../YouBetMeApp/Forms/Droid/PushService.cs" line="49" offsetX="546" offsetY="720" expression="PushNotificationHelper.Instance" liveUpdate="False" />
+    <Watch file="../../YouBetMeApp/Forms/Challenge/Droid/MainActivity.cs" line="360" offsetX="551" offsetY="4740" expression="requestCode" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
